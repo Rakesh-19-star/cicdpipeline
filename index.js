@@ -1,2 +1,2 @@
-console.log("hello Devops")
-console.log("i'm learning cicd pipeline")
+console.log("Hello DevOps!");
+console.log("I'm learning CI/CD Pipeline with GitHub Actions.");
